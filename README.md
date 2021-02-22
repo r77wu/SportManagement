@@ -22,3 +22,18 @@ There are Four main functions.
 
 
 ##  Setup
+Config a MongoDB
+```bash
+DATABASE=<your MongoDB database>
+DATABASE_PASSWORD=<your MongoDB password>
+```
+#### Backend 
+```bash
+npm install
+npm run dev
+```
+#### Frontend 
+```bash
+npm install
+npm start
+```
